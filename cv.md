@@ -1,4 +1,4 @@
-# Alexey Yudin
+# Алексей Юдин
 ## Python developer
 
 > alixey.yudin(at)gmail.com
